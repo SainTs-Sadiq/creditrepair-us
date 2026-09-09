@@ -1,1 +1,1 @@
-const SITE_CONFIG={telegramUsername:'creditrepair_us',email:'YOUR_EMAIL_HERE',businessName:'CreditRepair.US'};
+const SITE_CONFIG={telegramUsername:'creditrepair_us',email:'creditrepair.us@hotmail.com',businessName:'CreditRepair.US'};
